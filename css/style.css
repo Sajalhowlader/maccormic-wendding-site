@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-mc-img{
+    background-image: url('../images/carouls-1.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 560px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+}
+.bg-mc-img-1{
+    background-image: url('../images/corousl-2.jpeg');
+}
+.bg-mc-img-2{
+    background-image: url('../images/carouls-4.jpeg');
+}
+.header-height{
+    height: 100vh;
+}
