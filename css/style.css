@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .bg-mc-img{
-    background-image: url('../images/carouls-1.jpeg');
+    background-image: url('../images/slider.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -17,7 +17,4 @@
 }
 .bg-mc-img-2{
     background-image: url('../images/carouls-4.jpeg');
-}
-.header-height{
-    height: 100vh;
 }
