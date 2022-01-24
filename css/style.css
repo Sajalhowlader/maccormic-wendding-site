@@ -29,7 +29,6 @@ body{
 background: none;
 }
 .list-background{
-    background-color:#3F87F5;
     border-radius: 25px;
     box-shadow: 1px 5px 14px 5px #adbfdb;
     margin-top: -70px;
@@ -51,5 +50,15 @@ background: none;
     text-align: justify;
 
 }
+.feedback {
+    padding: 0% 10%;
+    background:#060816f7;
+    border-radius: 10px;
+}
+.second-caro{
+    padding: 5% 25%;
+    text-align: center;
+}
+
 
 
